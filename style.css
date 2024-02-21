@@ -1,0 +1,68 @@
+
+
+body {
+    
+    background: url('Frozen1.webp') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-blend-mode: multiply;
+    opacity: 0.9;
+}
+
+header {
+    background-color: #14003e;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+section {
+    max-width: 700px;
+    margin: 5px auto;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-decoration-break: clone;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #333;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.dascriptncing{
+font-family: "Dancing Script", cursive;
+font-optical-sizing: auto;
+font-weight: 900;
+font-style: normal;
+
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: large;
+}
+@media (max-width: 700px) {
+    section {
+        max-width: 100%;
+        padding: 5px; 
+    }
+}
+
+i{
+    
+    color: crimson;
+}
+#c1{
+    color: darkblue;
+    font-style: oblique;
+}
+p{
+    color: hotpink;
+}
